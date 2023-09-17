@@ -1,0 +1,45 @@
+# Python artifacts
+*.pyc
+*.pyo
+*.egg-info
+*.dist-info
+build/
+dist/
+__pycache__/
+
+# Virtual environments
+venv/
+*.venv
+*.virtualenv
+.env
+
+# Data science
+*.csv
+*.log
+*.dat
+*.data
+*.cache
+*.h5
+*.pkl
+
+# Jupyter Notebook
+.ipynb_checkpoints/
+
+# Deep learning frameworks
+# TensorFlow
+*.ckpt.*
+events.out.tfevents.*
+
+# PyTorch
+*.pt
+
+# IDE artifacts
+# PyCharm
+.idea/
+*.iml
+
+# VS Code
+.vscode/
+
+# macOS
+.DS_Store
